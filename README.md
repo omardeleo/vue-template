@@ -1,24 +1,18 @@
-# vue-template
+# The Vue Template &middot; [![Version Badge](https://img.shields.io/badge/version-1.0.0-brightgreen)](#)
 
-## Project setup
-```
-npm install
-```
+A basic Vue starter project to get started with Docker Compose and Shipyard.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Includes
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Vuetify](https://vuetifyjs.com/en/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Dependencies
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Make](https://www.gnu.org/software/make/manual/make.html)
+- [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/)
+
+## Getting Started
+
+- Run `make develop` at the root of this project.
+- Visit the app at http://localhost:8080.
+- Make your code changes! The app will reload whenever you save.
