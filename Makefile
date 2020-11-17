@@ -1,6 +1,3 @@
-
-PROJECT_NAME=$(shell basename $(PWD))
-
 develop: clean build run
 
 build:
@@ -12,3 +9,7 @@ clean:
 
 run:
 	docker-compose up
+
+shell:
+	docker-compose run vue \
+		sh
