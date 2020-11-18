@@ -4,13 +4,13 @@ A basic Vue starter project to get started with Docker Compose and Shipyard.
 
 ## Includes
 
-- [Vue](https://vuejs.org/)
-- [Vuetify](https://vuetifyjs.com/en/)
+- [Vue](https://github.com/vuejs/vue) - progressive JavaScript framework for building user interfaces
+- [Vuetify](https://github.com/vuetifyjs/vuetify) - Material Component library for Vue.js
 
 ## Dependencies
 
-- [Make](https://www.gnu.org/software/make/manual/make.html)
-- [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/)
+- [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/) - to build and run the app
+- [Make](https://www.gnu.org/software/make/manual/make.html) - to easily run commands needed for development
 
 ## Getting Started
 
